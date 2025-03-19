@@ -1,0 +1,3 @@
+hello this is
+newfile by typing
+git bash
